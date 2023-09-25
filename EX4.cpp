@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    ofstream monFlux("C:\scores.txt");
+    ofstream monFlux("/c/scores.txt");
     return 0;
 }
